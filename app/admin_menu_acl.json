@@ -1,0 +1,13 @@
+{
+	"Dashboard":"admin",
+	"Management" : {
+		"Users" : "admin/users",
+		"Products" : "admin/products",
+		"Categories" : "admin/categories"
+	},
+	"My Account":"admin/account",
+	"Settings":"admin/settings",
+	"Test":"admin/test",
+	"separator" : "",
+	"Logout":"register/logout"
+}
